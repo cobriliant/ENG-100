@@ -6,7 +6,7 @@ a:visited{color:0xFFCCCC !important;}
 
 .navbar
 {
-	float:left;
+	float:center;
 	padding:5px;
 	margin-top:20px;
 	display:block;
